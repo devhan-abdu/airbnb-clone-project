@@ -71,6 +71,38 @@ Importance of User-Friendly Design
 
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
 
+### 🔷 Color Styles
 
+- **Primary Color:** `#FF5A5F`  
+- **Secondary Color:** `#008489`  
+- **Background Color:** `#FFFFFF`  
+- **Text Color:** `#222222`  
+- **Secondary Text Color:** `#717171`
+
+### 🔡 Typography
+
+- **Primary Font:** Circular  
+  - Font Weight: Medium (500)  
+  - Font Size: 16px  
+- **Headings:** Circular  
+  - Font Weight: Bold (700)  
+  - Font Sizes: 24px to 32px  
+- **Secondary Text:** Circular  
+  - Font Weight: Book (400)  
+  - Font Size: 14px  
+
+### 💡 Why Identifying Design Properties Matters
+
+Identifying design properties like colors and typography in a mockup design is crucial for several reasons:
+
+- **Consistency:** Ensures a consistent visual language across the application.
+- **Efficiency:** Makes it easier for developers to apply styles without guessing or making assumptions.
+- **Accessibility:** Helps in selecting contrasting colors and readable font sizes.
+- **Collaboration:** Promotes better communication between designers and developers.
+- **Professionalism:** Reflects a polished, intentional user experience that aligns with branding.
+
+> ✅ Always reference the design mockup in Figma to stay aligned with the intended user interface.
+
+---
 
 ---
